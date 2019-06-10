@@ -1,0 +1,33 @@
+{
+    "help": {
+        "_description": "Shows information about commands or the command list.",
+        "_usage": "c!help [command name]",
+        "listTitle": "✨ Available commands",
+        "howToUse": ":information_desk_person: How to use",
+        "aliases": ":twisted_rightwards_arrows: Aliases",
+        "subcommands": ":control_knobs: Subcommands",
+        "crypto": "<:bitcoin:587738265579421712> Crypto Commands",
+        "info": ":grey_exclamation: Information Commands",
+        "noDescription": ":negative_squared_cross_mark: No description",
+        "noUsage": ":negative_squared_cross_mark: No usage",
+        "commandNotFound": "I couldn't find a command with that name."
+    },
+    "ping": {
+        "_description": "Check if the bot is online.",
+        "_usage": "c!ping",
+        "ping": ":ping_pong: Pong!",
+        "discordPing": ":desktop: API: `{0}ms`",
+        "wsPing": ":arrows_counterclockwise: Websocket: `{1}ms`"
+    },
+    "stats": {
+        "_description": "Shows statistics about the bot.",
+        "_usage": "c!stats",
+        "statistics": "{0} - Version `{1}`",
+        "uptime": ":clock: Uptime",
+        "ping": ":desktop: Ping",
+        "commands": ":sparkles: Commands",
+        "ram": ":control_knobs: Memory",
+        "totalRam": "{0} MB used out of {1} MB allocated",
+        "format": "d [days,] h [hours,] m [minutes and] s [seconds]"
+    }
+}
